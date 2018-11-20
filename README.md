@@ -1,4 +1,4 @@
-# typescript-jest-cucumber
+# typescript-jest-cucumber [![CircleCI](https://circleci.com/gh/isoung/typescript-jest-cucumber.svg?style=svg)](https://circleci.com/gh/isoung/typescript-jest-cucumber)
 
 # Requirements to run
 * nodejs
