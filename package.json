@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "yarn test:unit",
     "test:unit": "jest",
     "test:integration": "cucumber-js src/features --compiler ts:ts-node/register"
   },
